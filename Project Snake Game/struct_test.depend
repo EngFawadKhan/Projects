@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1426837311 source:c:\users\asif\documents\codeblock\struct_test\main.cpp
+	<windows.h>
+	<iostream>
+	<cmath>
+
+1426806699 source:g:\struct_test\main.cpp
+	<windows.h>
+	<iostream>
+	<cmath>
+
+1426870002 source:e:\fawad data\work and educational stuff\uet data\c++ data\special task\project snake game\main.cpp
+	<windows.h>
+	<iostream>
+	<cmath>
+
+1427402618 source:e:\fawad c++\project snake game\main.cpp
+	<windows.h>
+	<iostream>
+	<cmath>
+

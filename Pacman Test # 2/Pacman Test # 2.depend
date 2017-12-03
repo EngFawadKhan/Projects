@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432887836 source:e:\fawad data\work and educational stuff\uet data\2nd semester\c++ data\pacman test # 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string>
+	<vector>
+
